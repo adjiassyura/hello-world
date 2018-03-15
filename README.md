@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+mari belajar bersama, semoga bisa maju berssama
+aamiin
